@@ -7,25 +7,20 @@ Each program demonstrates core operations such as insertion, deletion, traversal
 
 - **Stack**  
   - Push, Pop, Peek  
-  - Stack using Array  
-  - Stack using Linked List  
+  - Stack using Array    
 
 - **Queue**  
   - Enqueue, Dequeue  
   - Circular Queue  
-  - Queue using Linked List  
 
 - **Deque (Double Ended Queue)**  
   - Input Restricted Deque  
   - Output Restricted Deque  
 
 - **Linked List**  
-  - Singly Linked List (Insertion, Deletion, Traversal)  
-  - Doubly Linked List  
-  - Circular Linked List  
+  - Singly Linked List (Insertion, Deletion, Traversal)
 
-- **Other Utilities**  
-  - Stack & Queue Applications (like expression evaluation, reversal, etc.)  
+- **Binary Search Tree**
 
 ## 🚀 Getting Started  
 
